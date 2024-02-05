@@ -1,0 +1,14 @@
+C:\Users\franc\source\repos\ProyectoCoder\bin\Debug\ProyectoCoder.exe.config
+C:\Users\franc\source\repos\ProyectoCoder\bin\Debug\ProyectoCoder.exe
+C:\Users\franc\source\repos\ProyectoCoder\bin\Debug\ProyectoCoder.pdb
+C:\Users\franc\source\repos\ProyectoCoder\obj\Debug\ProyectoCoder.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\ProyectoCoder\obj\Debug\ProyectoCoder.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\source\repos\ProyectoCoder\obj\Debug\ProyectoCoder.Form1.resources
+C:\Users\franc\source\repos\ProyectoCoder\obj\Debug\ProyectoCoder.Properties.Resources.resources
+C:\Users\franc\source\repos\ProyectoCoder\obj\Debug\ProyectoCoder.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\ProyectoCoder\obj\Debug\ProyectoCoder.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\ProyectoCoder\obj\Debug\ProyectoCoder.exe
+C:\Users\franc\source\repos\ProyectoCoder\obj\Debug\ProyectoCoder.pdb
+C:\Users\franc\source\repos\ProyectoCoder\bin\Debug\System.Data.SqlClient.dll
+C:\Users\franc\source\repos\ProyectoCoder\bin\Debug\System.Data.SqlClient.xml
+C:\Users\franc\source\repos\ProyectoCoder\obj\Debug\ProyectoCoder.csproj.CopyComplete

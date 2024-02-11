@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProyectoCoder.Properties
+namespace ProyectoCoder.models
 {
     public class ProductoVendido
     {

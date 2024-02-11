@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProyectoCoder.Properties
+namespace ProyectoCoder.models
 {
     public class Usuario
     {
@@ -41,12 +41,11 @@ namespace ProyectoCoder.Properties
         public long Contrasena { get { return _contrasena; } set { _contrasena = value; } }
         public string Mail { get { return _mail; } set { _mail = value; } }
 
-         
+        public override string ToString()
+        {
+            return $"nombre:{this._nombre}, apellido: {this._apellido}";
+        }
 
     }
-    public override string ToString()
-    {
-        return $"nombre: {this.nombre}, apellido: {this.apellido}";
-    }
-    
+
 }

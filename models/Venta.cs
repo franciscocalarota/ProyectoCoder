@@ -11,11 +11,27 @@ namespace ProyectoCoder.models
         private int _id;
         private string _comentarios;
         private int _idUsuario;
+        private int idObtenido;
+        private object value;
 
         public Venta()
         { }
 
-        public Venta(int id, string comentarios, int idUsuario)
+        public Venta(int idObtenido)
+        {
+            this.idObtenido = idObtenido;
+        }
+
+        public Venta(int idObtenido, object value) : this(idObtenido)
+        {
+            this.value = value;
+        }
+
+        public Venta(int idObtenido, object value, string comentarios) : this(idObtenido, value)
+        {
+        }
+
+        public Venta(int id, string comentarios, int idUsuario, object comentarios1)
         {
             this._id = id;
             this._comentarios = comentarios;

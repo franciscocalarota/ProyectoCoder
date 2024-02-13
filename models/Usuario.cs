@@ -17,6 +17,10 @@ namespace ProyectoCoder.models
         private string password;
         private string email;
 
+        public Usuario()
+        {
+        }
+
         public Usuario(int id, string nombre, string apellido, string nombreUsuario) { }
         public Usuario(int id, string nombre, string apellido, string nombreUsuario, long contrasena, string mail)
         {
